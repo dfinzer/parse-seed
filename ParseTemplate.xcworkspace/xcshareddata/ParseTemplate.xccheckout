@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>77DBADC3-54BC-4726-B128-8C60D33E7768</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ParseTemplate</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>87B59E14159A64B33591B7C46BE0026F9979ACEC</key>
+		<string>github.com:gigster-eng/parse-seed.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ParseTemplate.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>87B59E14159A64B33591B7C46BE0026F9979ACEC</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:gigster-eng/parse-seed.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>87B59E14159A64B33591B7C46BE0026F9979ACEC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>87B59E14159A64B33591B7C46BE0026F9979ACEC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ParseTemplate</string>
+		</dict>
+	</array>
+</dict>
+</plist>

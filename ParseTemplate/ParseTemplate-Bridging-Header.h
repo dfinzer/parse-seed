@@ -5,5 +5,5 @@
 #import <Parse/Parse.h>
 #import <Social/Social.h>
 #import <ParseFacebookUtilsV4/PFFacebookUtils.h>
-#import "AFNetworking.h"
-#import "AFOAuth1Client.h"
+#import <FBSDKCoreKit/FBSDKCoreKit.h>
+#import <AFNetworking/AFNetworking.h>
