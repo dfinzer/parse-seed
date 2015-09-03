@@ -62,7 +62,7 @@ DEPENDENCIES:
 SPEC CHECKSUMS:
   AFNetworking: e1d86c2a96bb5d2e7408da36149806706ee122fe
   Bolts: aac24961496d504aa56fc267cde95162a71bac39
-  CrashlyticsFramework: 2f7c515a2d74c8636bf47e761621f2f68193747e
+  CrashlyticsFramework: 5b7a9fb3d94124e3c20a9b10f93244706cfdb0f1
   Facebook-iOS-SDK: 6d05532c97e9c542f8d87f94b7f6ee217493d00b
   Parse: fa8ec29de6d82035635986c11946299fb1b38316
   ParseFacebookUtilsV4: fc44a339e38513fb6fc0bafbef34f69df6559e06

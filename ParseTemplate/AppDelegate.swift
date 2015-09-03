@@ -23,7 +23,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         Parse.setApplicationId(ConfigManager.parseAppId(),
             clientKey: ConfigManager.parseClientKey())
     
-        PFFacebookUtils.initializeFacebookWithApplicationLaunchOptions(launchOptions)
+        if launchOptions != nil {
+            PFFacebookUtils.initializeFacebookWithApplicationLaunchOptions(launchOptions!)
+        }
         
         // [Optional] Track statistics around application opens.
         PFAnalytics.trackAppOpenedWithLaunchOptions(launchOptions)

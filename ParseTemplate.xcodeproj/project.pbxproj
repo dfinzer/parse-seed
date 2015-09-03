@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		030161D41B991574006CC1BD /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030161D31B991574006CC1BD /* MainViewController.swift */; };
 		5B51DA1574257D90BFE3E6B3 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BBEFFD6D0A4C466959BAC85F /* libPods.a */; };
 		CE1FC5DB1AE8629C00DAF735 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1FC5DA1AE8629C00DAF735 /* AppDelegate.swift */; };
 		CE1FC5E01AE8629C00DAF735 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE1FC5DE1AE8629C00DAF735 /* Main.storyboard */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		030161D31B991574006CC1BD /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		854BCB8FAC7AF602370E5E04 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		BBEFFD6D0A4C466959BAC85F /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE1FC5D51AE8629C00DAF735 /* ParseTemplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ParseTemplate.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -144,6 +146,7 @@
 		CE1FC6021AE8635200DAF735 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				030161D31B991574006CC1BD /* MainViewController.swift */,
 			);
 			name = ViewControllers;
 			sourceTree = "<group>";
@@ -305,6 +308,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				030161D41B991574006CC1BD /* MainViewController.swift in Sources */,
 				CE1FC6591AE8647900DAF735 /* Config.swift in Sources */,
 				CE1FC5DB1AE8629C00DAF735 /* AppDelegate.swift in Sources */,
 			);
